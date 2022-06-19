@@ -1,0 +1,2 @@
+# Newsreader-app
+egui
